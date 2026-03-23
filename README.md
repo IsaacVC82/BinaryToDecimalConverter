@@ -70,8 +70,8 @@ Está desarrollada con HTML + CSS + JavaScript puro, sin dependencias externas.
 No requiere instalación. Solo clonar y abrir:
 
 ```bash
-git clone <repo>
-cd DecimalToBinaryConverter/DecimalToBinaryConverter
+git clone https://github.com/IsaacVC82/BinaryToDecimalConverter.git
+cd BinaryToDecimalConverter/BinaryToDecimalConverter
 start index.html
 ```
 
