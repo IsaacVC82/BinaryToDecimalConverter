@@ -3,6 +3,8 @@
 ## 🔧 Descripción
 `Binary to decimal` es una aplicación web ligera para convertir números decimales en binario en tiempo real.
 Está desarrollada con HTML + CSS + JavaScript puro, sin dependencias externas.
+<img width="975" height="421" alt="image" src="https://github.com/user-attachments/assets/59ecc6e0-4e01-4c0d-b891-8139554d0b0d" />
+
 
 ---
 
