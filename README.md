@@ -1,17 +1,17 @@
-# DecimalToBinaryConverter
+# Binary To Decimal Converter
 
 ## 🔧 Descripción
-`DecimalToBinaryConverter` es una aplicación web ligera para convertir números decimales en binario en tiempo real.
+`Binary to decimal` es una aplicación web ligera para convertir números decimales en binario en tiempo real.
 Está desarrollada con HTML + CSS + JavaScript puro, sin dependencias externas.
 
 ---
 
 ## 🚀 Características
 
-- Conversión inmediata de decimal a binario.
+- Conversión inmediata de binario a decimal.
 - Soporta:
   - `0` correctamente (retorna `0`)
-  - números positivos enteros
+  - `1`
 - Validación básica de entrada:
   - no acepta campos vacíos
   - no acepta valores no numéricos
@@ -30,7 +30,7 @@ Está desarrollada con HTML + CSS + JavaScript puro, sin dependencias externas.
 ## 🛠️ Uso
 
 1. Abrir `index.html` en el navegador.
-2. Ingresar un número decimal positivo.
+2. Ingresar un binario.
 3. Clicar `Convertir` o pulsar `Enter`.
 4. Ver resultado en el elemento de salida.
 
@@ -40,8 +40,8 @@ Está desarrollada con HTML + CSS + JavaScript puro, sin dependencias externas.
 
 - `1` → `1`
 - `2` → `10`
-- `7` → `111`
-- `16` → `10000`
+- `111` → `7`
+- `10000` → `16`
 - `0` → `0`
 
 ---
@@ -59,16 +59,7 @@ Está desarrollada con HTML + CSS + JavaScript puro, sin dependencias externas.
   - `convertBtn.click`
   - `numberInput.keydown` (`Enter`)
 
----
 
-## 📝 Mejoras sugeridas
-
-- Soportar negativos con complemento a dos.
-- Añadir validación de rango y detener valores no enteros.
-- Soportar números muy grandes (BigInt).
-- Mensajes inline en lugar de `alert`.
-- UI/UX: accesibilidad WAI-ARIA y temas.
-- Internacionalizar (i18n) texto en español/inglés.
 
 ---
 
