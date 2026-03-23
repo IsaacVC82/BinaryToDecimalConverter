@@ -41,7 +41,7 @@ Está desarrollada con HTML + CSS + JavaScript puro, sin dependencias externas.
 ## 🧪 Ejemplos
 
 - `1` → `1`
-- `2` → `10`
+- `10` → `2`
 - `111` → `7`
 - `10000` → `16`
 - `0` → `0`
